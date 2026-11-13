@@ -1,6 +1,6 @@
 # Pre-Mortem-Claude-Skill
 
-# 🔮 Pre-Mortem
+#  Pre-Mortem
 
 ### A Claude skill that imagines you already lost, then finds out why.
 
@@ -12,17 +12,17 @@
 
 ---
 
-## 💡 The idea
+##  The idea
 
 Ask an AI "do I have a chance?" and you'll usually hear why you'll win. That's pleasant, but it hides the real problem: the true reasons for a loss usually only show up **after** the loss.
 
 **Pre-Mortem brings that moment forward.** It assumes you already lost, then works backward to find the quiet problems you can't see from the inside.
 
-> 🧠 Imagining an event as *already happened* helps people come up with more, and more specific, reasons than asking "what might go wrong?"
+>  Imagining an event as *already happened* helps people come up with more, and more specific, reasons than asking "what might go wrong?"
 
 ---
 
-## 🎯 Who is it for?
+##  Who is it for?
 
 Use it when you're making **one attempt** that **someone else will judge**, with a yes or no at the end:
 
@@ -33,7 +33,7 @@ Use it when you're making **one attempt** that **someone else will judge**, with
 | 💰 | Grants and funding requests |
 | 🎤 | Exams and auditions |
 
-### 🚫 It is *not* for
+###  It is *not* for
 - Proofreading or routine draft feedback
 - Choosing between options (which phone, which university)
 - Everyday decisions
@@ -43,17 +43,17 @@ Use it when you're making **one attempt** that **someone else will judge**, with
 
 ## ⚙️ How it works
 
-**1. 🗣️ Discovery:** Claude asks you questions first. Who are the judges? What do they score on? How would you explain your idea in one sentence? It doesn't analyze anything until it has enough context.
+**1.  Discovery:** Claude asks you questions first. Who are the judges? What do they score on? How would you explain your idea in one sentence? It doesn't analyze anything until it has enough context.
 
-**2. 💀 The pre-mortem:** Claude imagines you lost and gives you **up to 5 hidden reasons, ranked from most to least likely**. They're specific to your situation, not generic advice. It's blunt about your work, never about *you*.
+**2.  The pre-mortem:** Claude imagines you lost and gives you **up to 5 hidden reasons, ranked from most to least likely**. They're specific to your situation, not generic advice. It's blunt about your work, never about *you*.
 
-**3. ✨ One honest line:** a single short line on what's genuinely working in your favor.
+**3.  One honest line:** a single short line on what's genuinely working in your favor.
 
-**4. 🛠️ Fixes, only if you want them:** Claude asks whether you'd like to work on fixes. They come after you say yes, so the failure analysis stays clear.
+**4.  Fixes, only if you want them:** Claude asks whether you'd like to work on fixes. They come after you say yes, so the failure analysis stays clear.
 
 ---
 
-## 🧪 Example (fictional)
+##  Example (fictional)
 
 > **You:** I'm entering a startup idea competition with an app I built. Why might I lose?
 >
